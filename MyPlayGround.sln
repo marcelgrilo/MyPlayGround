@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyPlayGround", "MyPlayGround\MyPlayGround.csproj", "{5D775AC7-AD2E-4C67-93C5-0F0F2E16A5E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyPlayGround", "MyPlayGround\MyPlayGround.csproj", "{5D775AC7-AD2E-4C67-93C5-0F0F2E16A5E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tasks", "Tasks\Tasks.csproj", "{7D532B82-B7EC-49DE-94AF-BE560BC2D388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableStorageTests", "TableStorageTests\TableStorageTests.csproj", "{AF51E928-97FA-4ED6-8CBE-BD3C677C7ABF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5D775AC7-AD2E-4C67-93C5-0F0F2E16A5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D775AC7-AD2E-4C67-93C5-0F0F2E16A5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D775AC7-AD2E-4C67-93C5-0F0F2E16A5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D532B82-B7EC-49DE-94AF-BE560BC2D388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D532B82-B7EC-49DE-94AF-BE560BC2D388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D532B82-B7EC-49DE-94AF-BE560BC2D388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D532B82-B7EC-49DE-94AF-BE560BC2D388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF51E928-97FA-4ED6-8CBE-BD3C677C7ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF51E928-97FA-4ED6-8CBE-BD3C677C7ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF51E928-97FA-4ED6-8CBE-BD3C677C7ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF51E928-97FA-4ED6-8CBE-BD3C677C7ABF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
